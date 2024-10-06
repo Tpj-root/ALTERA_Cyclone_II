@@ -61,11 +61,8 @@ Codename:	bullseye
 
 [link](https://www.intel.com/content/www/us/en/software-kit/711790/intel-quartus-ii-web-edition-design-software-version-13-0sp1-for-linux.html)
 
-Size: 4.5 GB
 
-sha1: 2b110eff0d544bcda4013e265f6feaa507482357
-
-
+<table border="1"><tr><td>Size: 4.5 GB</td></tr><tr><td>sha1: 2b110eff0d544bcda4013e265f6feaa507482357</td></tr><tr><td>FileName: Quartus-web-13.0.1.232-linux.tar</td></tr></table>
 
 
 
