@@ -37,15 +37,33 @@ ALTERA FPGA, Cyclone II: From Basics to Mastery
    - Ensure Cyclone II device support is installed.
 
 
+## Device and Operating Environment Details: 
+
+##  lsb_release -a
+
+```
+Distributor ID:	Debian
+Description:	Debian GNU/Linux 11 (bullseye)
+Release:	11
+Codename:	bullseye
+```
+
+[Debian]()
+<p align="center">
+  <img src="src/neofetch.png">
+</p>
 
 
 
+## Software download 
 
+### Intel® Quartus® II Web Edition Design Software Version 13.0sp1 for Linux
 
+[link](https://www.intel.com/content/www/us/en/software-kit/711790/intel-quartus-ii-web-edition-design-software-version-13-0sp1-for-linux.html)
 
+Size: 4.5 GB
 
-
-
+sha1: 2b110eff0d544bcda4013e265f6feaa507482357
 
 
 
@@ -92,4 +110,7 @@ Helpful Resources:
    - Intel FPGA University Program: University Program
    - ALTERA (Intel) Documentation: Documentation
 
+
+
+   - https://www.intel.com/content/www/us/en/support/programmable/support-resources/devices/cyclone-ii-support.html
 
