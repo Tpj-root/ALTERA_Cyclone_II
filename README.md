@@ -17,11 +17,13 @@ ALTERA FPGA, Cyclone II: From Basics to Mastery
    - Understand FPGA architecture: Configurable logic blocks, I/O blocks, and routing.
 
 
+## PDF
 
-[Cyclone II Device Handbook, Volume 1]("src/D_sheet.pdf")
-[Product Marking Information]("src/mark_info.pdf")
+[Cyclone II Device Handbook, Volume 1](src/D_sheet.pdf)
 
+[Product Marking Information](src/mark_info.pdf)
 
+[Pin Information for the Cyclone II EP2C5 Device](src/pinout.pdf)
 
 
 
