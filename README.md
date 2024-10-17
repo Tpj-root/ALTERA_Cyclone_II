@@ -203,7 +203,6 @@ Path=/home/sab/altera/13.0sp1
 
 
 
-
 3. Basic Quartus Project Setup
    - Create a new project in Quartus II.
    - Select Cyclone II as the target FPGA device.
@@ -212,6 +211,50 @@ Path=/home/sab/altera/13.0sp1
          assign Y = A & B;
      endmodule
    - Synthesize, simulate, and program your FPGA.
+
+
+
+
+
+# Project testing waveform.
+
+
+
+
+export PATH=$PATH:/home/sab/altera/13.0sp1/quartus/bin
+quartus
+
+
+Create project -- > Dir location 
+give name : Wave
+
+
+Family : Cyclone II
+Package : TQFP
+Pin Count : 144
+Speed grade : 8
+
+
+
+EP2C5T144C8N
+
+
+
+new - > Block Diagram\Schematic File
+
+
+
+
+
+Quartus II Basic Digital Circuit Design Tutorial 
+
+https://www.youtube.com/watch?v=o29SnVsLhOs
+
+
+
+
+
+
 
 4. Programming Languages for FPGA
    - Verilog and VHDL are the most common hardware description languages (HDLs) for FPGA design.
