@@ -255,6 +255,63 @@ https://www.youtube.com/watch?v=o29SnVsLhOs
 
 
 
+https://www.youtube.com/playlist?list=PL57F1D26AD6D50FA7
+
+
+https://www.youtube.com/watch?v=a8JAkKhxlQI&list=PL57F1D26AD6D50FA7&ab_channel=BillKleitz
+
+SIM
+
+
+
+New --> University Program VWF
+
+
+
+
+
+set End Time : 16 us
+
+Grid Size : 1 us
+
+
+
+
+Before (CTrl + l)
+
+Insert Node or Bus --> all
+
+
+
+then add the values
+
+
+select --> edit --> value --> Overwrite Clock
+
+
+a : period 2 us   (Ctrl + Alt + k)
+
+b : 4 us
+
+c : 8 us
+
+d : 16 us 
+
+
+Set setting 
+
+Simulation --> options -- > Quartus II simulator
+
+
+
+
+
+
+
+
+
+
+
 
 4. Programming Languages for FPGA
    - Verilog and VHDL are the most common hardware description languages (HDLs) for FPGA design.
